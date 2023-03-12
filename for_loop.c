@@ -8,6 +8,7 @@ int main(void)
     int subLoop1 = 0;
     int num2 = 0;
     scanf("%d", &userNum);
+    
     int sum = userNum * 2;
     int half = sum / 2;
     // int no = user
