@@ -1,0 +1,4 @@
+int **ptrtab;
+
+for (r = 0; r <rows; r++)
+     ptrtab[r] = (int *) malloc (cols * sizeof (int));
